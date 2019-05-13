@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1557729928 source:c:\users\eze\desktop\evaluacion\funciones.c
+	"Funciones.h"
+
+1557730798 c:\users\eze\desktop\evaluacion\funciones.h
+	<stdio.h>
+
+1557730798 source:c:\users\eze\desktop\evaluacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
